@@ -24,8 +24,12 @@ To make k-length case, there is 3 options.
 
 So we should save the nubmer we want to make and the length of cases.
 
-          lenngth of cases 1 2 3 4 
-number  1                  1  
+           
+      number        lenngth of cases  
+
+                           1 2 3 4 
+
+        1                  1  
 
         2                  1 1
         
